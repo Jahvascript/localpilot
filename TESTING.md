@@ -11,7 +11,7 @@ Automated checks: **34 passed**, including delayed window publication, absent wi
 | Same-build live regression check | Result |
 | --- | --- |
 | open notes | Pending build 2 retest |
-| create a note called hello | Pending build 2 retest |
+| create a note called hello | Passed on build 2 by user report: “Verified: Notes is active.” and “Verified: new note editor contains the requested title.” Cold/already-open variants not separately recorded. |
 | take a photo | Pending build 2 retest; creates one photo |
 | google Alfred Hitchcock, web enabled | Pending build 2 retest |
 | offline voice → open notes | Pending build 2 retest |

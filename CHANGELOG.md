@@ -14,4 +14,6 @@ Next: test Notes creation, Photo Booth capture, Safari search, and offline voice
 
 ## Logging convention
 
+Build 2 live-test update: user confirmed `create a note called hello` succeeds, with both Notes activation and title readback verified. No source changes or rebuild. Photo Booth, Safari, and offline voice retests on this same build remain pending.
+
 For each meaningful change, record the problem, change, checks run, and unresolved live-test results. Commit source and these logs together. Record user-confirmed results as such; do not equate policy tests with live app verification. Never commit raw accessibility dumps, browsing history, speech recordings, secrets, or generated app bundles.
