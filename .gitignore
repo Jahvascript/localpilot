@@ -1,0 +1,9 @@
+.build/
+LocalPilot.app/
+.DS_Store
+.env
+.env.*
+*.log
+work/
+diagnostics/
+recordings/
