@@ -80,3 +80,38 @@ The dependency-free runner checks parsing, invalid plans, literal command-like n
 ## Manual acceptance record
 
 Disconnect Wi-Fi/network and test app launch, note creation in On My Mac, speech transcription, and photo capture. Confirm visible results yourself as well as the app's status. Try switching foreground apps during a task; subsequent actions should stop. Try an unsupported instruction and confirm no action. With web disabled, `google test` should reject before Safari launches. Test search separately with the network and web toggle enabled. Record actual results in `TESTING.md`; do not mark adapter scenarios passed solely because the unit tests pass.
+
+---
+
+## Everyone Is Welcome at JahvaScript
+
+**Different backgrounds. Different experiences. One community.**
+
+JahvaScript welcomes developers, students, beginners,
+and contributors of all backgrounds and experience levels.
+
+We believe in peace, respect, accessibility, learning,
+and constructive collaboration.
+
+Contributions are welcome through code, documentation,
+testing, accessibility improvements, bug reports,
+and thoughtful suggestions.
+
+**Every contribution counts. Every voice deserves respect.**
+
+### Community Standards
+
+- [Code of Conduct](https://github.com/Jahvascript/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Contributing](https://github.com/Jahvascript/.github/blob/main/CONTRIBUTING.md)
+- [Accessibility](https://github.com/Jahvascript/.github/blob/main/ACCESSIBILITY.md)
+- [Support](https://github.com/Jahvascript/.github/blob/main/SUPPORT.md)
+
+Community reporting: jahvascripts@gmail.com
+
+### License
+
+Original JahvaScript code in this project is released
+under the MIT License. Third-party components retain
+their own applicable licenses.
+
+*JahvaScript — Code with purpose. Build with unity.*
